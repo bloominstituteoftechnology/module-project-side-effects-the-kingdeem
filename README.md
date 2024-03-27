@@ -10,7 +10,7 @@ For this project, you'll build a simple Instagram clone using React. There is a 
 
 ### Task 1: Project Setup
 
-- [ ]  Clone the repository to your machine using your terminal
+- [x]  Clone the repository to your machine using your terminal
 - [ ]  CD into the project base directory `cd React-Components-Insta-Clone`
 - [ ]  Download project dependencies by running `npm install`
 - [ ]  Start up the app using `npm run dev`
